@@ -29,7 +29,7 @@
 "categoriesValues"        : "参数值类别",
 "categoriesValuesNavi"    : "类别${参数}",
 "categoriesValuesTitle"   : "在元件${component}中参数${parameter}的${measure}值类别",
-"cdAccess"                : "",
+"cdAccess"                : "获取cd",
 "challenges"              : "挑战",
 "cleanData"               : "删除数据缓存",
 "clearAll"                : "删除所有数据",
